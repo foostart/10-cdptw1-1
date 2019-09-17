@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css"/>
-        <link href="css/responsive.css" rel="stylesheet" type="text/css"/>
-        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-        <link href="css/animate.css" rel="stylesheet" type="text/css"/>
-        <link href="css/773.css" rel="stylesheet" type="text/css" />
 
         <?php
         if (!class_exists('lessc')) {
@@ -19,12 +7,8 @@
         $less->compileFile('./less/773.less', './css/773.css')
         ?>
 
-        <script src="js/jquery-3.1.1.min.js" type="text/javascript"></script>
-        <script src="js/bootstrap.min.js" type="text/javascript"></script>
-        <script src="js/xxx.js" type="text/javascript"></script>
-
-    </head>
-    <body>
+       
+       
         <div class="type-773">
             <div class="top-bar">
                 <div class="hidden-desktop">
@@ -350,7 +334,7 @@
                                         <li class="parent">
                                             <a href="#" title="View your shopping bag">
                                                 <i class="fa-cart"></i>
-                                                <span>£0.00</span>
+                                                <span><i class="fa-gbp"></i> 0.00</span>
                                             </a>   
                                         </li>
                                         <li class="parent">
@@ -381,5 +365,4 @@
                 </div>
             </div>
         </div>
-    </body>
-</html>
+   
