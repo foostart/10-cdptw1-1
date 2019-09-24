@@ -19,7 +19,7 @@
         $less->compileFile('./less/773.less', './css/773.css');
         ?>
 
-        <script src="js/jquery-3.1.1.min.js" ></script>
+        <script src="js/jquery-2.1.4.min.js" ></script>
         <script src="js/bootstrap.min.js" ></script>
         <script src="js/xxx.js" ></script>
 
