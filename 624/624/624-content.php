@@ -1,15 +1,9 @@
 
-        <?php
-        if (!class_exists('lessc')) {
-            include './libs/lessc.inc.php';
-        }
         $less = new lessc;
-        $less->compileFile('./less/773.less', './css/773.css')
-        ?>
 
        
        
-        <div class="type-773">
+        <div class="type-624">
             <div class="top-bar">
                 <div class="hidden-desktop">
                     <div class="tb-text">
