@@ -621,4 +621,16 @@
     ul > li:hover .sub-menu{
         display: @display;
     }
+    @media only screen and (max-width: 979px){
+        nav .menu ul.sub-menu{
+            position: inherit;
+            z-index: 9995;
+        }
+        li.menu-item.sf-mega-menu > ul.sub-menu{
+                position: inherit;
+        }
+         nav .menu > li:first-child > a {
+        padding-left: 0;
+        }
+    }
 }

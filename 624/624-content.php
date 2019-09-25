@@ -65,27 +65,9 @@
                                             </a>
                                             <ul id="header-languages" class="sub-menu">
                                                 <li>
-                                                    <a href="#">DEMO - EXAMPLE PURPOSES</a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <span>German</span>
-                                                    </a>
-                                                </li>
-                                                <li>
                                                     <div class="current-language">
                                                         <span>English</span>
                                                     </div>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <span>Spanish</span>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <span>French</span>
-                                                    </a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -109,14 +91,7 @@
                                                 <span>Home</span>
                                             </a>
                                             <ul class="sub-menu">
-                                                <li><a href="#">Home (Example One)</a></li>
-                                                <li><a href="#">Home (Example Two)</a></li>
-                                                <li><a href="#">Home (Example Three)</a></li>
-                                                <li><a href="#">Home (Example Four)</a></li>
-                                                <li><a href="#">Home (Example Five)</a></li>
-                                                <li><a href="#">Home (Example Six)</a></li>
-                                                <li><a href="#">Home (Example Seven)</a></li>
-                                                <li><a href="#">Home (Example Eight)</a></li>
+                                                <li><a href="#">Home (Example One)</a></li>   
                                             </ul>
                                         </li>
                                         <li>
@@ -125,13 +100,7 @@
                                             </a>
                                             <ul class="sub-menu">
                                                 <li><a href="#">Shop – with left sidebar</a></li>
-                                                <li><a href="#">Shop – with right sidebar</a></li>
-                                                <li><a href="#">Shop – full-width</a></li>
-                                                <li><a href="#">Product Detail Page</a></li>
-                                                <li><a href="#">Shopping Bag</a></li>
-                                                <li><a href="#">Wishlist</a></li>
-                                                <li><a href="#">Track your order</a></li>
-                                                <li><a href="#">My Account</a></li>
+                                               
                                             </ul>
                                         </li>
                                         <li class="menu-item sf-mega-menu sf-mega-menu-natural-width" data-megamenucols="3">
@@ -143,42 +112,27 @@
                                                     <a href="#">Features 1</a>
                                                     <ul class="sub-menu">
                                                         <li><a href="#">WooCommerce 2.0+</a></li>
-                                                        <li><a href="#">Super Search</a></li>
-                                                        <li><a href="#">Retina-Ready</a></li>
-                                                        <li><a href="#">Fully Responsive</a></li>
-                                                        <li><a href="#">Parallax Elements</a></li>
-                                                        <li><a href="#">Swift Page Builder</a></li>
-                                                        <li><a href="#">Header Examples</a></li>
+                                                        
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item">
                                                     <a href="#">Features 2</a>
                                                     <ul class="sub-menu">
                                                         <li><a href="#">Boxed / Full-width</a></li>
-                                                        <li><a href="#">Revolution Slider</a></li>
-                                                        <li><a href="#">Stunning Swift Slider</a></li>
-                                                        <li><a href="#">Font Awesome Icons</a></li>
-                                                        <li><a href="#">Custom Colors</a></li>
-                                                        <li><a href="#">Asset Backgrounds</a></li>
-                                                        <li><a href="#">100% Translatable</a></li>
+                                                        
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item">
                                                     <a href="#">Features 3</a>
                                                     <ul class="sub-menu">
                                                         <li><a href="#">Demo Content Included</a></li>
-                                                        <li><a href="#">Font Deck</a></li>
-                                                        <li><a href="#">600+ Google Fonts</a></li>
-                                                        <li><a href="#">Font Size Options</a></li>
-                                                        <li><a href="#">Five Star Support</a></li>
-                                                        <li><a href="#">Extensive Theme Options</a></li>
-                                                        <li><a href="#/">Powerful Page Meta</a></li>
+                                                        
                                                     </ul>
                                                 </li>
                                             </ul>
                                         </li>
                                         <li class="menu-item sf-mega-menu sf-mega-menu-natural-width  no-headings parent" data-megamenucols="3">
-                                            <a href="/pages/">
+                                            <a href="#">
                                                 <span>Pages</span>
                                             </a>
                                             <ul class="sub-menu">
@@ -186,33 +140,21 @@
                                                     <a href="#">Pages 1</a>
                                                     <ul class="sub-menu">
                                                         <li><a href="#">About Us</a></li>
-                                                        <li><a href="#">About Us 2</a></li>
-                                                        <li><a href="#">Contact</a></li>
-                                                        <li><a href="#">Contact 2</a></li>
-                                                        <li><a href="#">Delivery &amp; Returns</a></li>
-                                                        <li><a href="#/">Help Centre / F.A.Q.</a></li>
+                                                        
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item">
                                                     <a href="#">Pages 2</a>
                                                     <ul class="sub-menu">
                                                         <li><a href="#">Services &amp; Capabilities</a></li>
-                                                        <li><a href="#">Meet the team</a></li>
-                                                        <li><a href="#">Payment</a></li>
-                                                        <li><a href="#">Pricing</a></li>
-                                                        <li><a href="#">Privacy</a></li>
-                                                        <li><a href="#">Stores</a></li>
+                                                        
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item">
                                                     <a href="#">Pages 3</a>
                                                     <ul class="sub-menu">
                                                         <li><a href="#">Default Page (Sidebar Right)</a></li>
-                                                        <li><a href="#">Default Page (Sidebar Left)</a></li>
-                                                        <li><a href="#">Default Page (Dual Sidebars)</a></li>
-                                                        <li><a href="#">Default Page (Full-width)</a></li>
-                                                        <li>
-                                                            <a href="#">404</a>
+                                                       
                                                         </li>
                                                     </ul>
                                                 </li>
@@ -227,40 +169,28 @@
                                                     <a href="#">Shortcodes 1</a>
                                                     <ul class="sub-menu">
                                                         <li><a href="#">Accordion</a></li>
-                                                        <li><a href="#">Boxed Content</a></li>
-                                                        <li><a href="#">Buttons</a></li>
-                                                        <li><a href="#">Columns</a></li>
-                                                        <li><a href="#">Dividers</a></li>
+                                                       
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item">
                                                     <a href="#">Shortcodes 2</a>
                                                     <ul class="sub-menu">
                                                         <li><a href="#">Dropcaps, Ampersand &amp; Highlighter</a></li>
-                                                        <li><a href="#">Swift Charts &amp; Progress Bars</a></li>
-                                                        <li><a href="#">Google Charts</a></li>
-                                                        <li><a href="#">Google Maps</a></li>
-                                                        <li><a href="#">Icons &amp; Links with icons</a></li>
+                                                        
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item">
                                                     <a href="#">Shortcodes 3</a>
                                                     <ul class="sub-menu">
                                                         <li><a href="#">Images, Videos &amp; Lightbox</a></li>
-                                                        <li><a href="#">Lists</a></li>
-                                                        <li><a href="#">Message Boxes / Alerts</a></li>
-                                                        <li><a href="#">Pricing Tables</a></li>
-                                                        <li><a href="#">Quotes</a></li>
+                                                        
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item">
                                                     <a href="#">Shortcodes 4</a>
                                                     <ul class="sub-menu">
                                                         <li><a href="#">Social Icons</a></li>
-                                                        <li><a href="#">Tables</a></li>
-                                                        <li><a href="#">Tabs</a></li>
-                                                        <li><a href="#">Tour</a></li>
-                                                        <li><a href="#">Typography</a></li>
+                                                        
                                                     </ul>
                                                 </li>
                                             </ul>
@@ -271,14 +201,7 @@
                                             </a>
                                             <ul class="sub-menu">
                                                 <li><a href="#">Standard Single Column</a></li>
-                                                <li><a href="#">Standard 2 Column</a></li>
-                                                <li><a href="#">Standard 3 Column</a></li>
-                                                <li><a href="#">Standard 4 Column</a></li>
-                                                <li><a href="#">Gallery 2 Column</a></li>
-                                                <li><a href="#">Gallery 3 Column</a></li>
-                                                <li><a href="#">Gallery 4 Column</a></li>
-                                                <li><a href="#">Page Builder Portfolio Item 1</a></li>
-                                                <li><a href="#">Page Builder Portfolio Item 2</a></li>
+                                               
                                             </ul>
                                         </li>
                                         <li class="menu-item">
@@ -287,16 +210,7 @@
                                             </a>
                                             <ul class="sub-menu">
                                                 <li><a href="#">Standard with no sidebars</a></li>
-                                                <li><a href="#">Standard with right sidebar</a></li>
-                                                <li><a href="#">Standard with left sidebar</a></li>
-                                                <li><a href="#">Standard with both sidebars</a></li>
-                                                <li><a href="#">Mini with right sidebar</a></li>
-                                                <li><a href="#">Mini with left sidebar</a></li>
-                                                <li><a href="#">Mini with Both Sidebars</a></li>
-                                                <li><a href="#">Mini with no sidebars</a></li>
-                                                <li><a href="#">Masonry with no sidebars</a></li>
-                                                <li><a href="#">Masonry with right sidebar</a></li>
-                                                <li><a href="#">Masonry with left sidebar</a></li>
+                                                
                                             </ul>
                                         </li>
                                         <li>

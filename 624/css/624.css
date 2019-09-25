@@ -567,3 +567,15 @@
 .type-624 ul > li:hover .sub-menu {
   display: block;
 }
+@media only screen and (max-width: 979px) {
+  .type-624 nav .menu ul.sub-menu {
+    position: inherit;
+    z-index: 9995;
+  }
+  .type-624 li.menu-item.sf-mega-menu > ul.sub-menu {
+    position: inherit;
+  }
+  .type-624 nav .menu > li:first-child > a {
+    padding-left: 0;
+  }
+}
