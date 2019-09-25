@@ -138,12 +138,13 @@
         transition: opacity 0.3s ease;
         transition-delay: 0.1s;
     }
-
+     
     ul.social-icons li a:hover {
         color: @color_trans;
     }
     ul.social-icons.small li.dribbble a {
         background-position: -48px 0;
+
     }
     ul.social-icons.small li.facebook a {
         background-position: -24px 0;
@@ -322,7 +323,7 @@
     }
     .header-right nav .menu ul.sub-menu {
         left: @left;
-        right: @right_0;
+        right: @right_0 ;
     }
     nav .menu ul.sub-menu {
         position: @position_ab;
@@ -629,8 +630,10 @@
         li.menu-item.sf-mega-menu > ul.sub-menu{
                 position: inherit;
         }
-         nav .menu > li:first-child > a {
-        padding-left: 0;
-        }
+
+      ul > li:hover .sub-menu{
+        display: @display;
+    }
+
     }
 }

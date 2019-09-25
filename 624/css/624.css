@@ -80,6 +80,9 @@
   transition: opacity 0.3s ease;
   transition-delay: 0.1s;
 }
+.type-624 ul.social-icons.small li:hover {
+  color: red;
+}
 .type-624 ul.social-icons li a:hover {
   color: transparent;
 }
@@ -575,7 +578,7 @@
   .type-624 li.menu-item.sf-mega-menu > ul.sub-menu {
     position: inherit;
   }
-  .type-624 nav .menu > li:first-child > a {
-    padding-left: 0;
+  .type-624 ul > li:hover .sub-menu {
+    display: block;
   }
 }
