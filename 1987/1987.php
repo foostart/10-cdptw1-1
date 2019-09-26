@@ -23,12 +23,9 @@ $less->compileFile('less/1987.less', 'css/1987.css');
         <link rel="stylesheet" type="text/css" href="css/1987.css">
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-        <link rel="stylesheet" href="css/owl.carousel.min.css">
-        <link rel="stylesheet" href="css/owl.theme.default.min.css">
     
         <script src="js/jquery-2.1.4.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
-        <script src="js/owl.carousel.js"></script>
         <script src="js/1987.js"></script>
    
     </head>
