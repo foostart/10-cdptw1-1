@@ -163,7 +163,7 @@ html, body {
         color: #666;
     }
 
-    .r_more {
+    .r_more{
         color: #444;
         padding: 11px 19px 11px 5px;
         height: 40px;
@@ -214,11 +214,9 @@ html, body {
     .swiper-button-next, .swiper-button-prev{
         top:28%;
     }
-    .swiper-button-next:hover, .swiper-button-prev:hover{
-        background-image: url(data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%…2L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'%23007aff'%2F%3E%3C%2Fsvg%3E);
-        background-color: wheat;
+    .swiper-pagination-bullet:hover{
+        background: blue;
     }
-
 
     @media (max-width: 390px){
         .image_holder_wrap{
@@ -240,9 +238,10 @@ html, body {
 
     @media (max-width: 900px){
         .swiper-button-next, .swiper-button-prev{
-            top:33%;
-            width:110px;
+            top:24%;
+            width:109px;
         }
+        .swiper-button-prev{left: 3px;}
     }
    
 

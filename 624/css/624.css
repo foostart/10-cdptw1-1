@@ -80,9 +80,6 @@
   transition: opacity 0.3s ease;
   transition-delay: 0.1s;
 }
-.type-624 ul.social-icons.small li:hover {
-  color: red;
-}
 .type-624 ul.social-icons li a:hover {
   color: transparent;
 }
@@ -170,6 +167,9 @@
 }
 .type-624 .header-1 #logo a.logo-link {
   text-align: center;
+}
+.type-624 .header-1 #logo a.logo-link:hover {
+  background: lightgrey;
 }
 .type-624 #logo a.logo-link {
   display: block;
